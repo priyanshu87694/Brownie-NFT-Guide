@@ -2,7 +2,8 @@
 
 ## Intoduction
 
-This repo contains contracts to mint NFT, is build using brownie eth environments, which is a python framework. A Hardhat version of this project is available, which is a javascript edition.
+This repo contains contracts to mint NFT, it is build using `brownie` etherium environments, which is a python framework. A Hardhat version of this project is available, which is a javascript edition - 
+[Hardhar-NFT-Guide](https://github.com/priyanshu87694/FCC-NFT-Guide)
 
 ## Getting Started
 
